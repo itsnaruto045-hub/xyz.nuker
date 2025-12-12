@@ -55,7 +55,7 @@
 1. `sudo apt install python3`
 2. `sudo apt install python3 python3-pip -y`
 3. `python3 -m venv venv`
-4. `source venv/bin/activate`
+4. `source venv/bin/activate `
 
 <<[7]>>  INSTALL NODE MODULES //
 
@@ -74,6 +74,7 @@
 3. `node bot.js`
 
                                                                            
+
 
 
 
