@@ -32,6 +32,7 @@
  9.  ├──YOU WILL SEE A TOKEN COPY IT . IT'S YOU BOT'S TOKEN
  10. ├──GO TO 0AUTH2 
  11. ├── SET=>
+ 
              └──1. 0AUTH2 URL GENERATOR -> BOT
              └──2. BOT PERMISSION -> ADMINISTRATOR 
              
@@ -44,6 +45,7 @@
  2. ├──YOU WILL SE (TOKEN=)
  3. ├──PASTE YOUR TOKE AT (TOKEN=YOUR_TOKEN)
  4. ├──DO=>
+ 
           └──1. ^C+O 
           └──2. ENTER
           └──3. ^C+X
@@ -72,6 +74,7 @@
 3. `node bot.js`
 
                                                                            
+
 
 
 
