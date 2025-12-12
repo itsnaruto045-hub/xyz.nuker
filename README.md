@@ -9,7 +9,7 @@
  <<[2]>>  CLONE THIS REPO
 
  1. `apt install git`
- 2. `git clone  `
+ 2. `git clone https://github.com/itsnaruto045-hub/xyz.nuker.git`
  3. `cd xyz.nuker` 
  
  <<[3]>>  INSTALL NANO & NPM //
@@ -71,6 +71,7 @@
 3. `node bot.js`
 
                                                                            
+
 
 
 
