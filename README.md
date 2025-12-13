@@ -4,35 +4,30 @@
 
 
 💡 Commands List
-!backup → Backup server
+
+`!start` → Ban all members
 
 
-!back → Restore backup
+`!dc` → Delete all channels
 
 
-!start → Ban all members
+`!admin <user>` → Make a user admin
+[ example : `!admin ‪@ഒ˚⋆.丂ᗩᗟᗩ⳨﹒˚₊⊹˳ ℘ ˚⋆﹒🥀`‬  ]
 
 
-!dc → Delete all channels
+`!cn <channel_name> <channel_count>` → Create multiple channels
+[ example : `!cn FUCKED-BY-%-SDF->.. 90` ]
 
 
-!admin <user> → Make a user admin
-[ example : !admin ‪@ഒ˚⋆.丂ᗩᗟᗩ⳨﹒˚₊⊹˳ ℘ ˚⋆﹒🥀‬  ]
+`!sm <message> <count>` → Spam a message in all channels
+[example : `!sm @everyone-This-server-has-fucked-join-nukers'-server->--and-this-server-nuked-by-%-SDF->..->https://discord.gg/hmXQXdUWfG 999` ]
 
 
-!cn <channel_name> <channel_count> → Create multiple channels
-[ example : !cn FUCKED-BY-%-SDF->.. 90 ]
+`!all <channel_name> <channel_count> <spam_message> <spam_count>` → Execute all: Ban members, Delete channels, Make all admin, Create channels, Spam messages
+[ example : `!all FUCKRD-BY-SDF~ 90 @everyone-This-server-has-fucked-join-nukers'-server->--and-this-server-nuked-by-%-SDF->..->discord.gg/hmXQXdUWfG 999` ]
 
 
-!sm <message> <count> → Spam a message in all channels
-[example : !sm @everyone-This-server-has-fucked-join-nukers'-server->--and-this-server-nuked-by-%-SDF->..->https://discord.gg/hmXQXdUWfG 999 ]
-
-
-!all <channel_name> <channel_count> <spam_message> <spam_count>` → Execute all: Ban members, Delete channels, Make all admin, Create channels, Spam messages
-[ example : !all FUCKRD-BY-SDF~ 90 @everyone-This-server-has-fucked-join-nukers'-server->--and-this-server-nuked-by-%-SDF->..->discord.gg/hmXQXdUWfG 999 ]
-
-
-!k-help → Show this help message
+`!k-help` → Show this help message
 
 
 # INSTALL GUID ->
@@ -109,6 +104,7 @@
 3. `node bot.js`
 
                                                                            
+
 
 
 
