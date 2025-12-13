@@ -3,7 +3,7 @@
 -----------------------------------------------------------------
 
 
-💡 Commands List
+# 💡 Commands List
 
 `!start` → Ban all members
 
@@ -104,6 +104,7 @@
 3. `node bot.js`
 
                                                                            
+
 
 
 
