@@ -1,6 +1,41 @@
 -----------------------------------------------------------------
-       © XYZ NUKER-2025 % SDF >.. |  FULL INSTALL GUID
+    © XYZ NUKER-2025 % SDF >.. |  FULL INSTALL & cmds GUID
 -----------------------------------------------------------------
+
+
+💡 Commands List
+!backup → Backup server
+
+
+!back → Restore backup
+
+
+!start → Ban all members
+
+
+!dc → Delete all channels
+
+
+!admin <user> → Make a user admin
+[ example : !admin ‪@ഒ˚⋆.丂ᗩᗟᗩ⳨﹒˚₊⊹˳ ℘ ˚⋆﹒🥀‬  ]
+
+
+!cn <channel_name> <channel_count> → Create multiple channels
+[ example : !cn FUCKED-BY-%-SDF->.. 90 ]
+
+
+!sm <message> <count> → Spam a message in all channels
+[example : !sm @everyone-This-server-has-fucked-join-nukers'-server->--and-this-server-nuked-by-%-SDF->..->https://discord.gg/hmXQXdUWfG 999 ]
+
+
+!all <channel_name> <channel_count> <spam_message> <spam_count>` → Execute all: Ban members, Delete channels, Make all admin, Create channels, Spam messages
+[ example : !all FUCKRD-BY-SDF~ 90 @everyone-This-server-has-fucked-join-nukers'-server->--and-this-server-nuked-by-%-SDF->..->discord.gg/hmXQXdUWfG 999 ]
+
+
+!k-help → Show this help message
+
+
+# INSTALL GUID ->
  
  <<[1]>>   UPDATE & UPGRADE YOUR OS //
 
@@ -74,6 +109,7 @@
 3. `node bot.js`
 
                                                                            
+
 
 
 
